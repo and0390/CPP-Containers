@@ -2,13 +2,8 @@
 #ifndef RED_BLACK_T_RAW
 #define RED_BLACK_T_RAW
 
-#include <cstdint>
 #include <memory>
-#include <utility>
 #include <iostream>
-#include <cassert>
-#include <optional>
-
 
 /**
  * DATA STRUCTURE TYPE : TREE
@@ -18,7 +13,6 @@
  * ############################################ This program is a prototype ################################################
  * **THIS PROGRAM PROVIDES BASIC OPERATIONS OF AVL BINARY SEARCH TREE INSERTION AND DELETION
  */
-
 
 namespace morph_proto{
     class AVL_T{
