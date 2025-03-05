@@ -1,6 +1,6 @@
 
-#ifndef RED_BLACK_T_RAW
-#define RED_BLACK_T_RAW
+#ifndef AVL_BST_PROTO
+#define AVL_BST_PROTO
 
 #include <memory>
 #include <iostream>
@@ -220,11 +220,4 @@ namespace morph_proto{
     };
 }
 
-
-
-
-
-
-
-
-#endif //Red_Black_trees_RAW
+#endif //AVL BST RAW
